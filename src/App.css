@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: .5rem;
+  color: white;
+  font-weight: bold;
+}
+
+input {
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: .5rem;
+  border: 1px solid #ccc;
+}
